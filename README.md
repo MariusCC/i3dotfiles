@@ -25,6 +25,8 @@ Polybar,Rofy,Termite,Atom,GTK Apps (Google Chrome,Firefox,thunar etc)Terminator,
 
 # WM
 ![Wm](https://1.bp.blogspot.com/-XiEKB8u73Mw/XhHIEzW0hKI/AAAAAAAAFMk/0mPzIVClxbgdMnHbnSYD0PsZ4MldqO9YgCEwYBhgL/s1600/2020-01-05-1578221885-screenshot.png)
+# Termite
+![Termite](https://1.bp.blogspot.com/-V7o13tfBtZU/XhIpS05TIkI/AAAAAAAAFNQ/pKF9x4JQPvcbHQgF2Leds9JjK4qj-_aeQCLcBGAsYHQ/s1600/2020-01-05-1578247259-screenshot.png)
 # Rofi
 ![Rofi](https://1.bp.blogspot.com/-qlAbhBwvZcs/XhHIFn79HNI/AAAAAAAAFMo/rqFGAVZzPX471NmdQ5URruSjXWcAZUA_QCEwYBhgL/s1600/Screenshot%2Bfrom%2B2020-01-05%2B16.15.05.png)
 # Terminal Apps
