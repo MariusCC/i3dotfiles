@@ -1,34 +1,27 @@
 # My dotfiles i3
 
 my 2020 personal configs for for i3, polybar, rofi, termite, nano, htop, ranger etc.
+[My website](https://www.manzoorsblog.tk "My Blog")
 
 # Softwares i am using
 
-Distro = Arch linux
-
-Karnel = linux lts karnel
-
-WM = I3-Gaps
-
-Shell = Zsh, with oh my zsh and powerlevel9k
-
-Statusbar = Polybar
-
-Menu = Dmenu
-
-Terminal = Termite
-
-Font = Fira Code , FontAwesome 5 pro
-
-GTK theme = Nordic Darker Standard Buttons
-
-Icons = Nordic Darker
-
-Color pallets = Nord
+1. Distro = Arch linux
+2. Karnel = linux lts karnel
+3. WM = I3-Gaps
+4. Shell = Zsh, with oh my zsh and powerlevel9k
+5. Statusbar = Polybar
+6. Menu = rofi
+7. Terminal = Termite, terminator
+8. Font = Fira Code , FontAwesome 5 pro
+9. GTK theme = Nordic Darker Standard Buttons
+10. Icons = Nordic Darker
+11. Color pallets = Nord
 
 #Riced application
 
 Polybar,Rofy,Termite,Atom,GTK Apps (Google Chrome,Firefox,thunar etc)Terminator,Ranger,Htop,Gtop
+
+#screenshots
 
 ![Wm](https://1.bp.blogspot.com/-XiEKB8u73Mw/XhHIEzW0hKI/AAAAAAAAFMk/0mPzIVClxbgdMnHbnSYD0PsZ4MldqO9YgCEwYBhgL/s1600/2020-01-05-1578221885-screenshot.png)
 ![Rofi](https://1.bp.blogspot.com/-qlAbhBwvZcs/XhHIFn79HNI/AAAAAAAAFMo/rqFGAVZzPX471NmdQ5URruSjXWcAZUA_QCEwYBhgL/s1600/Screenshot%2Bfrom%2B2020-01-05%2B16.15.05.png)
