@@ -22,10 +22,10 @@
 #__________________________________________________________
 #__________________________________________________________
 [global_config]
-  title_transmit_fg_color = "#eceff4"
-  title_transmit_bg_color = "#3b4252"
-  title_inactive_fg_color = "#eceff4"
-  title_inactive_bg_color = "#434c5e"
+  title_transmit_fg_color = "#fdfdfd"
+  title_transmit_bg_color = "#282a36"
+  title_inactive_fg_color = "#fdfdfd"
+  title_inactive_bg_color = "#414458"
 [keybindings]
 [layouts]
   [[default]]
@@ -39,7 +39,7 @@
 [plugins]
 [profiles]
   [[default]]
-    palette = "#3b4252:#bf616a:#a3be8c:#ebcb8b:#5e81ac:#b48ead:#88c0d0:#d8dee9:#434c5e:#bf616a:#a3be8c:#ebcb8b:#5e81ac:#b48ead:#88c0d0:#eceff4"
-    foreground_color = "#eceff4"
-    background_color = "#2e3440"
-    cursor_color = "#eceff4"
+    palette = "#282a36:#f37f97:#5adecd:#f2a272:#8897f4:#c574dd:#79e6f3:#fdfdfd:#414458:#ff4971:#18e3c8:#ff8037:#556fff:#b043d1:#3fdcee:#bebec1"
+    foreground_color = "#fdfdfd"
+    background_color = "#1d1f28"
+    cursor_color = "#fdfdfd"
