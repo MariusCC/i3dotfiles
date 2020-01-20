@@ -1,0 +1,45 @@
+#__________________________________________________________
+#__________________________________________________________
+###########################################################
+#######    __  __                                   #######
+#######   |  \/  |                                  #######
+#######   | \  / | __ _ _ __  _______   ___  _ __   #######
+#######   | |\/| |/ _` | '_ \|_  / _ \ / _ \| '__|  #######
+#######   | |  | | (_| | | | |/ / (_) | (_) | |     #######
+#######   |_|  |_|\__,_|_| |_/___\___/ \___/|_|     #######
+#######       /\   | |                      | |     #######
+#######      /  \  | |__  _ __ ___   ___  __| |     #######
+#######     / /\ \ | '_ \| '_ ` _ \ / _ \/ _` |     #######
+#######    / ____ \| | | | | | | | |  __/ (_| |     #######
+#######   /_/    \_\_| |_|_| |_| |_|\___|\__,_|     #######
+###########################################################
+#----------------------Follow Me--------------------------#
+#website: https://www.manzoorsblog.tk/                    #
+#Twitter:https://twitter.com/_MANZOOR_AHMED               #
+#Reddit: https://www.reddit.com/user/manzoorahmedmunawar  #
+#Github: https://github.com/manzoorahmedmunawar           #
+###########################################################
+#__________________________________________________________
+#__________________________________________________________
+[global_config]
+  title_transmit_fg_color = "#eceff4"
+  title_transmit_bg_color = "#3b4252"
+  title_inactive_fg_color = "#eceff4"
+  title_inactive_bg_color = "#434c5e"
+[keybindings]
+[layouts]
+  [[default]]
+    [[[child1]]]
+      type = Terminal
+      parent = window0
+      profile = default
+    [[[window0]]]
+      type = Window
+      parent = ""
+[plugins]
+[profiles]
+  [[default]]
+    palette = "#3b4252:#bf616a:#a3be8c:#ebcb8b:#5e81ac:#b48ead:#88c0d0:#d8dee9:#434c5e:#bf616a:#a3be8c:#ebcb8b:#5e81ac:#b48ead:#88c0d0:#eceff4"
+    foreground_color = "#eceff4"
+    background_color = "#2e3440"
+    cursor_color = "#eceff4"
